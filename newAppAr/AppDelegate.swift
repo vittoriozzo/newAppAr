@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  newAppAr
+//  TestAR
 //
-//  Created by Vittorio Grimaldi on 14/12/17.
-//  Copyright © 2017 Vittorio Grimaldi. All rights reserved.
+//  Created by Renato Tramontano on 11/12/17.
+//  Copyright © 2017 Renato Tramontano. All rights reserved.
 //
 
 import UIKit
